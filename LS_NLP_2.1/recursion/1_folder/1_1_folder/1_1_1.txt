@@ -1,0 +1,11 @@
+1970s: During the 1970s, many programmers began to write "conceptual ontologies", which structured real-world information into 
+computer-understandable data. Examples are MARGIE (Schank, 1975), SAM (Cullingford, 1978), PAM (Wilensky, 1978), TaleSpin 
+(Meehan, 1976), QUALM (Lehnert, 1977), Politics (Carbonell, 1979), and Plot Units (Lehnert 1981). During this time, the first 
+many chatterbots were written (e.g., PARRY).
+1980s: The 1980s and early 1990s mark the hey-day of symbolic methods in NLP. Focus areas of the time included research on 
+rule-based parsing (e.g., the development of HPSG as a computational operationalization of generative grammar), 
+morphology (e.g., two-level morphology[3]), semantics (e.g., Lesk algorithm), reference (e.g., within Centering Theory[4]) 
+and other areas of natural language understanding (e.g., in the Rhetorical Structure Theory). Other lines of research 
+were continued, e.g., the development of chatterbots with Racter and Jabberwacky. An important development 
+(that eventually led to the statistical turn in the 1990s) was the rising importance of quantitative evaluation 
+in this period.[5]

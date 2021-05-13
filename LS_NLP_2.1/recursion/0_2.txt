@@ -1,0 +1,2 @@
+Challenges in natural language processing frequently involve speech recognition, natural language understanding, 
+and natural-language generation.
